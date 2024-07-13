@@ -1,0 +1,144 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-04 12:58+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: .\kurier\settings.py:121
+msgid "Russian"
+msgstr "Русский"
+
+#: .\kurier\settings.py:122
+msgid "Uzbek"
+msgstr "Узбекский"
+
+#: .\kurier\settings.py:123
+msgid "American English"
+msgstr "Американский Английский"
+
+#: .\tgbot\management\commands\resources\markup.py:15
+msgid "Yes"
+msgstr "Да"
+
+#: .\tgbot\management\commands\resources\markup.py:16
+msgid "No"
+msgstr "Нет"
+
+#: .\tgbot\management\commands\resources\markup.py:17
+msgid "The Order is accepted"
+msgstr "Заказ принят"
+
+#: .\tgbot\management\commands\resources\markup.py:20
+msgid "Accepted Order:"
+msgstr "Принятый Заказ:"
+
+#: .\tgbot\management\commands\resources\markup.py:40
+msgid ""
+"Welcome to Delivery. Here you can take orders and confirm their "
+"status."
+msgstr ""
+"Добро Пожаловать в Delivery. Здесь вы можете принимать заказы и "
+"подтверждать их статус"
+
+#: .\tgbot\management\commands\resources\markup.py:42
+msgid "Input your number"
+msgstr "Введите ваш номер"
+
+#: .\tgbot\management\commands\resources\markup.py:42
+msgid "Send contact"
+msgstr "Отправить Контакт"
+
+#: .\tgbot\management\commands\resources\markup.py:43
+msgid "Share Contact"
+msgstr "Поделиться Контактом"
+
+#: .\tgbot\management\commands\resources\markup.py:44
+#, fuzzy
+#| msgid "Please use the button this time"
+msgid "Please, use the button this time"
+msgstr "Пожалуйста, воспользуйтесь кнопкой в этот раз"
+
+#: .\tgbot\management\commands\resources\markup.py:51
+#: .\tgbot\management\commands\resources\markup.py:64
+msgid "Take Order"
+msgstr "Взять Заказ"
+
+#: .\tgbot\management\commands\resources\markup.py:52
+msgid "Branches"
+msgstr "Филиалы"
+
+#: .\tgbot\management\commands\resources\markup.py:53
+msgid "My Orders"
+msgstr "Мои Заказы"
+
+#: .\tgbot\management\commands\resources\markup.py:54
+msgid "Settings"
+msgstr "Настройки"
+
+#: .\tgbot\management\commands\resources\markup.py:59
+msgid "Change Language"
+msgstr "Поменять язык"
+
+#: .\tgbot\management\commands\resources\markup.py:60
+msgid "Connect with Operator"
+msgstr "Связь с Оператором"
+
+#: .\tgbot\management\commands\resources\markup.py:61
+msgid "Back"
+msgstr "Назад"
+
+#: .\tgbot\management\commands\resources\markup.py:63
+msgid "Something went wrong, please reload the bot"
+msgstr "Что то пошло не так, пожалуйста перезагрузите бот"
+
+#: .\tgbot\management\commands\resources\markup.py:71
+msgid "Active"
+msgstr "Активные заказы"
+
+#: .\tgbot\management\commands\resources\markup.py:72
+msgid "History"
+msgstr "История заказов"
+
+#: .\tgbot\management\commands\resources\markup.py:73
+msgid "Done"
+msgstr "Выполнено"
+
+#: .\tgbot\management\commands\resources\markup.py:74
+msgid "Cancel"
+msgstr "Отменить"
+
+#: .\tgbot\management\commands\resources\markup.py:75
+msgid "You don't have active orders"
+msgstr "У вас нет активных заказов"
+
+#: .\tgbot\management\commands\resources\markup.py:76
+msgid "Your history is empty"
+msgstr "Ваша история пуста"
+
+#~ msgid "Are you sure, you want to take this order?"
+#~ msgstr "Вы уверены, что хотите взять этот заказ?"
+
+#~ msgid "To send your contact, press the button"
+#~ msgstr "Чтобы отправить номер нажмите на кнопку"
+
+#~ msgid "hello"
+#~ msgstr ""
+#~ "Здравствуйте, Добро пожаловать в бот \"BULAVKA Delivery\".\n"
+#~ "\n"
+#~ "Выберите язык:"

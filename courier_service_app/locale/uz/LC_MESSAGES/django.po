@@ -1,0 +1,133 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-04 12:58+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\kurier\settings.py:121
+msgid "Russian"
+msgstr "Rus tili"
+
+#: .\kurier\settings.py:122
+msgid "Uzbek"
+msgstr "O'zbek tili"
+
+#: .\kurier\settings.py:123
+msgid "American English"
+msgstr "Amerikali Ingliz"
+
+#: .\tgbot\management\commands\resources\markup.py:15
+msgid "Yes"
+msgstr "Ha"
+
+#: .\tgbot\management\commands\resources\markup.py:16
+msgid "No"
+msgstr "Yo'q"
+
+#: .\tgbot\management\commands\resources\markup.py:17
+msgid "The Order is accepted"
+msgstr "Buyurtma qabul qilindi"
+
+#: .\tgbot\management\commands\resources\markup.py:20
+msgid "Accepted Order:"
+msgstr "Qabul Qilingan Buyurtma:"
+
+#: .\tgbot\management\commands\resources\markup.py:40
+msgid ""
+"Welcome to Delivery. Here you can take orders and confirm their "
+"status."
+msgstr ""
+"Delivery-ga Xush Kelibsiz. Bu yerda siz buyurtmalar qabul "
+"qilishingiz va ularning holatini tasdiqlashingiz mumkin"
+
+#: .\tgbot\management\commands\resources\markup.py:42
+msgid "Input your number"
+msgstr "Raqamingizni kiriting"
+
+#: .\tgbot\management\commands\resources\markup.py:42
+msgid "Send contact"
+msgstr "Kontaktni yuborish"
+
+#: .\tgbot\management\commands\resources\markup.py:43
+msgid "Share Contact"
+msgstr "Kontaktni ulashing"
+
+#: .\tgbot\management\commands\resources\markup.py:44
+#, fuzzy
+#| msgid "Please use the button this time"
+msgid "Please, use the button this time"
+msgstr "Iltimos, bu safar tugmani ishlating"
+
+#: .\tgbot\management\commands\resources\markup.py:51
+#: .\tgbot\management\commands\resources\markup.py:64
+msgid "Take Order"
+msgstr "Buyurtma olish"
+
+#: .\tgbot\management\commands\resources\markup.py:52
+msgid "Branches"
+msgstr "Filiallar"
+
+#: .\tgbot\management\commands\resources\markup.py:53
+msgid "My Orders"
+msgstr "Mening buyurtmalar"
+
+#: .\tgbot\management\commands\resources\markup.py:54
+msgid "Settings"
+msgstr "Sozlamalar"
+
+#: .\tgbot\management\commands\resources\markup.py:59
+msgid "Change Language"
+msgstr "Tilni o'zgartirish"
+
+#: .\tgbot\management\commands\resources\markup.py:60
+msgid "Connect with Operator"
+msgstr "Operator bilan aloqa"
+
+#: .\tgbot\management\commands\resources\markup.py:61
+msgid "Back"
+msgstr "Orqaga"
+
+#: .\tgbot\management\commands\resources\markup.py:63
+msgid "Something went wrong, please reload the bot"
+msgstr "Nimadir xato ketdi, iltimos, botni qayta yuklang"
+
+#: .\tgbot\management\commands\resources\markup.py:71
+msgid "Active"
+msgstr "Faol Buyurtmalar"
+
+#: .\tgbot\management\commands\resources\markup.py:72
+msgid "History"
+msgstr "Tarix Buyurtmalar"
+
+#: .\tgbot\management\commands\resources\markup.py:73
+msgid "Done"
+msgstr "Bajarildi"
+
+#: .\tgbot\management\commands\resources\markup.py:74
+msgid "Cancel"
+msgstr "Bekor qilish"
+
+#: .\tgbot\management\commands\resources\markup.py:75
+msgid "You don't have active orders"
+msgstr "Sizda faol buyurtmalar yo'q"
+
+#: .\tgbot\management\commands\resources\markup.py:76
+msgid "Your history is empty"
+msgstr "Sizning tarixingiz bo'sh"
+
+#~ msgid "Are you sure, you want to take this order?"
+#~ msgstr "Bu buyurtmani qabul qilmoqchimisiz?"
